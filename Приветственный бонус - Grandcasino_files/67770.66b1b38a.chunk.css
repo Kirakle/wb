@@ -1,0 +1,2 @@
+.divider{align-items:center;display:flex;justify-content:space-between}.divider:after,.divider:before{background-color:var(--v3-black-6);content:"";height:1px;width:100%}.divider--left:before,.divider--right:after{width:5%}.divider--vertical{border-left:1px solid var(--v3-black-6);border-top:none;height:100px;width:1px}.divider__text{color:var(--v3-text-color);font-size:14px;letter-spacing:.6px;min-width:-moz-fit-content;min-width:fit-content;padding:0 10px}
+/*# sourceMappingURL=67770.66b1b38a.chunk.css.map*/
